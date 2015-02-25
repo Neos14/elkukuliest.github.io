@@ -5,12 +5,12 @@ pagprev: le-petit-bateau-de-petit-ours/de/page1
 pagnext: le-petit-bateau-de-petit-ours/de/page3
 ---
 
-## Le petit bateau de Petit Ours
+## Das kleines Boot von der kleiner Bar
 
 <img src="{{ site.baseurl }}/img/le-petit-bateau-de-petit-ours/page2.jpg"/>
 
 <div class="childbook-text">
-Chaque jour, il faisait le tour du lac en ramant.
+Jeden Tag ging er rund um den See rudern .
 </div>
 
 {% include nav.html %}
